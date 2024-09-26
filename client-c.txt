@@ -1,4 +1,14 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
+n the "Product Package Counter" program, the goal is to count the number of packages a hardware device 
+scans for boxing into cases. 
+Each package contains two products, and each case can hold a maximum of 50 packages. 
+The program uses a loop to print the number of products scanned, starting from 2 and counting up to 50, 
+incrementing by twos. 
+With each iteration, the program adds two to the previous number, representing the number 
+of products scanned and packed into cases. 
+The loop continues until the total reaches 50 products, at which point the program stops.
+
+
 # ------------------------------------------------- #
 

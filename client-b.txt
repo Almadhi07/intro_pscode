@@ -1,4 +1,19 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
+
+the customer starts at a specific location in a large warehouse and is trying to find a predetermined target location. 
+The warehouse is represented as a grid, and the customer can move in four directions: 
+north, south, east, or west. 
+The customer's current position and the target location are tracked using variables 
+representing their coordinates on the grid. 
+A loop repeatedly checks the customer’s current location against the target location. 
+fter each movement (north, south, east, or west), the coordinates are updated, 
+and the application gives feedback on how far the customer is from the target. 
+The loop continues until the customer reaches the target location, 
+at which point the application displays a success message.
+
+
+
+
 # ------------------------------------------------- #
 

@@ -1,4 +1,18 @@
 # Client Task A #
+
 # Add your pseudocode to this file below this line: #
+
+//This line is a print for the welcome menu//
+Welcome to the guessing number game!
+
+The computer randomly selects a number between 1 and 10. 
+The player is given 3 attempts to guess the correct number. After each guess, the player's input is checked against the chosen number. 
+If the player's guess is correct, a message is displayed congratulating them, and the game ends. 
+If the guess is incorrect, the player is informed of the number of remaining attempts. T
+he game continues until the player guesses correctly or runs out of attempts. 
+If the player uses all 3 guesses without success, 
+the game reveals the correct number and displays a "game over" message.
+
+
 # ------------------------------------------------- #
 
